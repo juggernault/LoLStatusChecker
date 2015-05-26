@@ -6,5 +6,5 @@ Works on all Regions, including PBE and Garena Server.
 
 # Changelog
 
-2.0.0.12 - Added link to github.com
-2.0.0.11 - Release
+- 2.0.0.12 - Added link to github.com
+- 2.0.0.11 - Release
